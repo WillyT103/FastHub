@@ -25,7 +25,7 @@
         android:supportsRtl="true"
         android:theme="@style/SplashTheme"
         tools:replace="android:allowBackup"
-        tools:targetApi="n">
+        tools:targetApi="30">
         <activity
             android:name=".ui.modules.main.donation.CheckPurchaseActivity"
             android:configChanges="keyboard|orientation|screenSize"
